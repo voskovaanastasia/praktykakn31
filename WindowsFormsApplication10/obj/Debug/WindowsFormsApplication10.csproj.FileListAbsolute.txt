@@ -1,0 +1,13 @@
+C:\Users\Настя\Desktop\ПРАКТИКА 2020\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\Настя\Desktop\ПРАКТИКА 2020\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form2.resources
+C:\Users\Настя\Desktop\ПРАКТИКА 2020\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\Настя\Desktop\ПРАКТИКА 2020\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+C:\Users\Настя\Desktop\ПРАКТИКА 2020\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\Настя\Desktop\ПРАКТИКА 2020\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Database3.accdb
+C:\Users\Настя\Desktop\ПРАКТИКА 2020\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\Настя\Desktop\ПРАКТИКА 2020\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\Настя\Desktop\ПРАКТИКА 2020\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\Настя\Desktop\ПРАКТИКА 2020\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\Настя\Desktop\ПРАКТИКА 2020\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\Настя\Desktop\ПРАКТИКА 2020\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form3.resources
+C:\Users\Настя\Desktop\ПРАКТИКА 2020\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form4.resources
